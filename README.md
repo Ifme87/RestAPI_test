@@ -1,5 +1,19 @@
 # RestAPI_test
 
+Requierments:
+
+- Python 3.11.10
+
+Install required packages:
+
+```
+run pip install requests pytest
+```
+Run tests locally in CMD:
+```
+pytest src/main.py
+```
+
 ## API Tests Description
 
 | **Test Name**                | **Steps**                                                                                                                                                                                                                                           | **Validation Used & Reason**                                                                                                                                                                                                                                                                                                                                                      |
